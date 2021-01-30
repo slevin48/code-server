@@ -1,6 +1,9 @@
 # code-server
 VS Code in the browser - personal experience
+
 https://github.com/cdr/code-server
+
+![code-server](code-server.png)
 
 ## Docker
 https://hub.docker.com/r/codercom/code-server
